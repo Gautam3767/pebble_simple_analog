@@ -1,0 +1,30 @@
+{
+    "displayName": "analog_watchface",
+    "uuid": "2e5fec83-1ceb-4ab3-9bf3-acaa08537acf",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk",
+        "diorite"
+    ],
+    "watchapp": {
+        "watchface": false
+    },
+    "messageKeys": {
+        "dummy": 10000
+    },
+    "resources": {
+        "media": []
+    },
+    "name": "analog_watchface",
+    "shortName": "analog_watchface",
+    "longName": "analog_watchface",
+    "versionLabel": "1.0",
+    "companyName": "MakeAwesomeHappen",
+    "appKeys": {
+        "dummy": 10000
+    },
+    "capabilities": []
+}
