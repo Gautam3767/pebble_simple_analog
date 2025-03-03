@@ -1,15 +1,14 @@
 {
-  "name": "analog_watchface",
-  "author": "MakeAwesomeHappen",
+  "name": "SimpleAnalogWatchC",
+  "author": "Your Name",
   "version": "1.0.0",
-  "keywords": ["pebble-app"],
-  "private": true,
+  "keywords": ["watch-face", "analog"],
   "dependencies": {},
   "pebble": {
-    "displayName": "analog_watchface",
-    "uuid": "2e5fec83-1ceb-4ab3-9bf3-acaa08537acf",
+    "displayName": "Simple Analog Watch C",
+    "uuid": "84665ed2-8fdd-47f4-b0f0-d4d82b75c2e9",
     "sdkVersion": "3",
-    "enableMultiJS": true,
+    "enableMultiJS": false,
     "targetPlatforms": [
       "aplite",
       "basalt",
@@ -17,11 +16,8 @@
       "diorite"
     ],
     "watchapp": {
-      "watchface": false
+      "watchface": true
     },
-    "messageKeys": [
-      "dummy"
-    ],
     "resources": {
       "media": []
     }
