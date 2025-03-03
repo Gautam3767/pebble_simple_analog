@@ -1,6 +1,6 @@
 {
   "name": "SimpleAnalogWatchC",
-  "author": "Your Name",
+  "author": "Gautam Girdhar",
   "version": "1.0.0",
   "keywords": ["watch-face", "analog"],
   "dependencies": {},
